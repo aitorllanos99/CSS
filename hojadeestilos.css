@@ -16,7 +16,7 @@ h1 {
   h2{
     font-weight: bolder;
     text-decoration: underline;
-    font-family: 900 Helvetica, serif;
+    font: 900 Helvetica, serif;
     color: #000000;
   }
   html{
@@ -36,7 +36,6 @@ h1 {
     padding-bottom: 4px;
   }
   ul{
-    border: #000000;
     border-width: 4px;
     border-radius: 40px;
     background-color: #000000;
@@ -62,7 +61,7 @@ h1 {
   h3,h4,h5,h6{
     font-weight: bolder;
     text-decoration: underline;
-    font-family: 700 Helvetica, serif;
+    font: 700 Helvetica, serif;
     font-size: 21px;
     font-style:italic;
     color: #000000;
