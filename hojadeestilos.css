@@ -16,7 +16,7 @@ h1 {
   h2{
     font-weight: bolder;
     text-decoration: underline;
-    font: 900 Helvetica, serif;
+    font-family: Helvetica;
     color: #000000;
   }
   html{
@@ -30,7 +30,7 @@ h1 {
     padding: 10px 10px 5px 5px;
   }
  nav{
-    font-family:Verdana,serif;
+    font-family:Verdana,sans-serif;
     float:left;
     padding-right:100px;
     padding-bottom: 4px;
@@ -61,7 +61,7 @@ h1 {
   h3,h4,h5,h6{
     font-weight: bolder;
     text-decoration: underline;
-    font: 700 Helvetica, serif;
+    font-family: Helvetica;
     font-size: 21px;
     font-style:italic;
     color: #000000;
